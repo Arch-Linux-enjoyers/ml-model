@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Test files
+test.txt
+src/model/test.py

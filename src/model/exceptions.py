@@ -1,0 +1,2 @@
+class QuestionDoesNotHaveCorrectAnswer(BaseException):
+    pass
