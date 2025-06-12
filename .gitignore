@@ -12,3 +12,6 @@ wheels/
 # Test files
 test.txt
 src/model/test.py
+
+# Models
+src/model/mistral-7b-instruct-v0.1.Q5_K_M.gguf
